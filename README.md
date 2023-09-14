@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Étienne 👋 Welcome to my page !
+
+I'm an electrical engineer who has taken part in electromobility and system integration projects in the world of urban transportation 🚄
+
+I use GitHub for academia, research purposes and little side projects. Feel free to navigate through my repositories and reach out if you have any questions! 
+
+- 🔭 I’m currently working on a railway simulator
+- 🌱 I’m currently learning about Communications Based Train Control (CBTC) and rail signalling systems
+- 📫 How to reach me: [beauchamp.etienne@outlook.com](mailto:beauchamp.etienne@outlook.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fineststone&hide=jupyter%20notebook,html&theme=tokyonight)
 
 <!--
 **FinestStone/FinestStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
